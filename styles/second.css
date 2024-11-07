@@ -1,0 +1,175 @@
+  
+   
+.rover{
+  margin-top: 100px;
+}
+.click{
+  width: 500px;
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.80); 
+  color: whitesmoke;
+  margin-top: -180px;
+  margin-left:300px;
+}
+.click h2{
+  width:500px;
+}
+
+  
+  .matriceA{
+      justify-content:baseline;
+      width: 1500px;
+      height: 1000px;
+      display: flex;
+      flex-direction: column;
+      align-items:baseline;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 80);
+      background-color: rgba(0, 0, 0, 0.80); 
+      z-index: 0;
+      margin-top: 200px;
+      padding-bottom: 100px;
+  }
+  .matriceB{
+      justify-content:baseline;
+      width: 1500px;
+      height: 880px;
+      display: flex;
+      flex-direction: column;
+      align-items: baseline;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 80);
+      background-color: rgba(0, 0, 0, 0.80); 
+      z-index: 0;
+      margin-top: 0px;
+  }
+  
+  .apollo{
+      display: flex;
+      flex-direction: column;
+      
+      margin: 10px;
+  }
+  .space{
+      display: flex;
+      flex-direction: column;
+      
+      margin: 10px;
+      margin-right: 200px;
+  }
+  .hubble{
+      display: flex;
+      flex-direction: column; 
+      margin: 10px;
+      
+  }
+  .mars{
+      display: flex;
+      flex-direction: column;
+      margin: 10px;
+      margin-top: 100px;
+  }
+  .artemis{
+      display: flex;
+      flex-direction: column;
+      margin-top: 50px;
+      margin: 10px;
+      margin-top: 80px;
+      
+  }
+  .image1 {
+      width: 300px;
+      height: auto;
+      border-radius: 20px;
+      
+  }
+  .image2{
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  margin-top: 150px;
+      
+  }
+  .image3{
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      margin-top: 200px;
+  }
+  .image4{
+      width: 300px;
+      height: 300px;
+      border-radius: 20px;
+      margin-top: -50px;
+
+  }
+  .image5{
+      width: 300px;
+      height: auto;
+      border-radius: 20px;
+      margin-top: 80px;
+  }
+  .paragrafo1{
+      height:200px;
+      width: 700px;
+      margin-top: -300px;
+      color: whitesmoke;
+      margin-left: 350px;
+  }
+  .paragrafo2{
+      width: 700px;
+      margin-top: -320px;
+      color: whitesmoke;
+      margin-left: 350px;
+      }
+  .paragrafo3{
+      width: 700px;
+      margin-top: -330px;
+      color: whitesmoke;
+      margin-left: 350px;
+  }
+  .paragrafo4{
+      width: 700px;
+      margin-top: -320px;
+      color: whitesmoke;
+      margin-left: 350px;
+      
+  }
+  .paragrafo5{
+      width: 700px;
+      margin-top: -320px;
+      color: whitesmoke;
+      margin-left: 350px;
+  }
+  .contatti{
+      height: 55px;
+      display: flex;
+      flex-direction: row;
+      background-color: rgba(0, 0, 0, 0.80); 
+      padding-bottom: 30px;
+      margin-top: 300px;
+  }
+  .destras h1{
+      color: white;
+      font-size: large;
+      display: flex;
+  }
+  
+  .iframe{
+      display: flex;
+      width: 80%;
+      height: 200px;
+      
+    }
+    .maps{
+      flex: 1;
+      margin-left: 60px;
+      display: flex;
+      font-size: 50px;
+      vertical-align: bottom;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color:white;
+      width: 80%;
+      height: 200px;
+    }
+    .social{
+      color: aliceblue;
+    }

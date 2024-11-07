@@ -1,0 +1,56 @@
+
+.Sopra{
+  height: 55px;
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(0, 0, 0, 0.80); 
+
+}
+.Sinistra{
+background-color:none;
+width: 200px;
+
+}
+.centro{
+flex: 1;
+margin-left: 60px;
+display: flex;
+font-size: 50px;
+vertical-align: bottom;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:white;
+
+}
+.font a{
+    color: whitesmoke;
+    padding: 18px;
+    text-decoration: none;
+
+}
+.destra{
+  display: flex;
+  background-color:none;
+  border: none;
+ border-radius: 2px;
+ cursor: pointer;
+  font-weight: bolder;
+  padding: auto;
+  vertical-align:bottom;
+  color:white;
+  font-size: 30px;
+  font-family:'Battlestar',sans-serif;
+  margin-top: 30px;
+}
+
+
+.logo{
+  height: 200%;
+  border-radius: 100px;
+  display: flexbox;
+}
+
+<style>
+@import url('https://fonts.cdnfonts.com/css/battlestar');
+</style>
+
+  
